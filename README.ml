@@ -12,7 +12,7 @@
 
 ```bash
 
-    git clone https://github.com/AsqaraliyevFakhriyor/djang3book/ <PRIOJECT_DIR>
+    git clone https://github.com/AsqaraliyevFakhriyor/djang3book <PRIOJECT_DIR>
     cd <PROJECT_DIR>
     
 ```
