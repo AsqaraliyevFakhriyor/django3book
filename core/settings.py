@@ -138,8 +138,8 @@ USE_TZ = True
 STATIC_URL = '/static/'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'asqaraliyev07@gmail.com'
-EMAIL_HOST_PASSWORD =  '09091981Gul@'
+EMAIL_HOST_USER = '<YOUR GMAIL>'
+EMAIL_HOST_PASSWORD =  '<YOUR GMAIL PASSWORD'
 EMAIL_PORT = 587
 EMAIL_USE_TSL = True
 
